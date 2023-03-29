@@ -1,4 +1,4 @@
-# clusterDiali crossplane k8s 
+# ClusterDiali crossplane k8s 
 
 ## Production-Ready Amazon EKS cluster using Crossplane
 
